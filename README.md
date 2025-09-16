@@ -142,7 +142,7 @@
 </tr>
 </table>
 
-### **🏆 Professional Certifications with Interactive Details**
+### **🏆 Professional Certifications**
 
 <div align="left" style="margin-left: 2rem;">
 
@@ -161,15 +161,17 @@
 - **Shortest Paths Revisited, NP-Complete Problems and What To Do About Them**
 
 #### **🎯 Key Skills Acquired:**
-- Advanced algorithm design and analysis
+- Advanced algorithm design and analysis techniques
 - Time and space complexity optimization
-- Graph algorithms and dynamic programming
-- NP-completeness and approximation algorithms
+- Graph algorithms and dynamic programming mastery
+- NP-completeness theory and approximation algorithms
+- Randomized algorithms and probabilistic analysis
 
 #### **💼 Applied In:**
-- Optimized recommendation algorithms 
-- Efficient data processing pipelines
-- Performance-critical ML model implementations
+- Scalable recommendation algorithm optimization
+- High-performance data processing systems
+- Performance-critical ML infrastructure implementations
+- Algorithmic trading and financial modeling systems
 
 </div>
 </details>
@@ -183,24 +185,25 @@
 <div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
-- **Neural Networks and Deep Learning**
-- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
-- **Structuring Machine Learning Projects**
-- **Convolutional Neural Networks**
-- **Sequence Models**
+- **Neural Networks and Deep Learning** - Foundational concepts and implementation
+- **Improving Deep Neural Networks** - Hyperparameter tuning, regularization, optimization
+- **Structuring Machine Learning Projects** - Best practices and project management
+- **Convolutional Neural Networks** - Computer vision and image processing
+- **Sequence Models** - RNNs, LSTMs, attention mechanisms, and transformers
 
 #### **🎯 Key Skills Acquired:**
-- Deep neural network architecture design
-- CNN for computer vision applications
-- RNN/LSTM for sequence modeling
-- Hyperparameter optimization and regularization
-- ML project structuring and best practices
+- Deep neural network architecture design and implementation
+- Advanced CNN techniques for computer vision applications
+- RNN/LSTM/GRU for sequence modeling and time series analysis
+- Hyperparameter optimization and advanced regularization techniques
+- ML project structuring, diagnosis, and performance improvement strategies
+- Transfer learning and multi-task learning approaches
 
 #### **💼 Applied In:**
-- Medical image segmentation using U-Net architecture
-- Real-time emotion detection systems
-- NLP models for text analysis
-- Computer vision for autonomous vehicles
+- Medical image analysis and diagnostic systems
+- Real-time computer vision and object detection
+- Natural language processing and sentiment analysis
+- Time series forecasting and sequential data modeling
 
 </div>
 </details>
@@ -214,23 +217,24 @@
 <div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
-- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
-- **Convolutional Neural Networks in TensorFlow**
-- **Natural Language Processing in TensorFlow**
-- **Sequences, Time Series and Prediction**
+- **Introduction to TensorFlow for AI, ML, and Deep Learning** - Core TensorFlow fundamentals
+- **Convolutional Neural Networks in TensorFlow** - Advanced computer vision techniques
+- **Natural Language Processing in TensorFlow** - Text processing and NLP models
+- **Sequences, Time Series and Prediction** - RNNs, LSTMs, and forecasting models
 
 #### **🎯 Key Skills Acquired:**
-- TensorFlow 2.x ecosystem mastery
-- Production-ready model deployment
-- Computer vision with TensorFlow
-- NLP with TensorFlow and BERT integration
-- Time series forecasting and prediction
+- TensorFlow 2.x ecosystem mastery and production deployment
+- Computer vision with TensorFlow including transfer learning
+- Natural language processing with embeddings and sequence models
+- Time series analysis and forecasting with RNNs and CNNs
+- Model optimization and TensorFlow Serving deployment
+- Real-time inference and mobile deployment with TensorFlow Lite
 
 #### **💼 Applied In:**
-- Scalable ML model deployment 
-- Production TensorFlow serving infrastructure
-- Real-time inference systems
-- Multi-modal AI applications
+- Production-scale ML model deployment and serving
+- Real-time image classification and object detection systems
+- Text analysis and sentiment classification applications
+- Time series forecasting for business analytics and IoT
 
 </div>
 </details>
@@ -244,20 +248,23 @@
 <div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
-- **Build Basic Generative Adversarial Networks (GANs)**
-- **Build Better Generative Adversarial Networks (GANs)**
-- **Apply Generative Adversarial Networks (GANs)**
+- **Build Basic Generative Adversarial Networks (GANs)** - Foundational GAN concepts and implementations
+- **Build Better Generative Adversarial Networks (GANs)** - Advanced techniques and StyleGAN
+- **Apply Generative Adversarial Networks (GANs)** - Real-world applications and image-to-image translation
 
 #### **🎯 Key Skills Acquired:**
-- GAN architecture design and implementation
-- Advanced GAN variants (DCGAN, WGAN, etc.)
-- GAN evaluation and mode collapse solutions
-- Applications in image generation and data augmentation
+- GAN architecture design from basic to advanced implementations
+- Advanced GAN variants including DCGAN, WGAN, StyleGAN, and Pix2Pix
+- GAN evaluation using Fréchet Inception Distance (FID) and bias detection
+- Image-to-image translation and conditional generation techniques
+- Understanding of social implications, bias detection, and privacy preservation
+- PyTorch implementation for custom GAN architectures
 
 #### **💼 Applied In:**
-- Data augmentation for limited medical imaging datasets
-- Synthetic data generation for ML model training
-- Research in generative modeling applications
+- Synthetic data generation for privacy-preserving machine learning
+- Data augmentation for improving model robustness and performance
+- Creative applications in art, design, and content generation
+- Image-to-image translation for satellite imagery and mapping applications
 
 </div>
 </details>
@@ -271,23 +278,24 @@
 <div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
-- **Introduction to Machine Learning in Production**
-- **Machine Learning Data Lifecycle in Production**
-- **Machine Learning Modeling Pipelines in Production**
-- **Deploying Machine Learning Models in Production**
+- **Introduction to Machine Learning in Production** - ML system design and deployment concepts
+- **Machine Learning Data Lifecycle in Production** - Data validation, versioning, and lineage
+- **Machine Learning Modeling Pipelines in Production** - Model development and automation
+- **Deploying Machine Learning Models in Production** - Scalable deployment and monitoring
 
 #### **🎯 Key Skills Acquired:**
-- End-to-end ML pipeline design
-- Model versioning and experiment tracking
-- Production deployment strategies
-- ML monitoring and maintenance
-- Data validation and drift detection
+- End-to-end ML system design and production architecture
+- Data lifecycle management with TensorFlow Extended (TFX)
+- Model versioning, experiment tracking, and A/B testing frameworks
+- Production deployment strategies including canary releases and blue-green deployments
+- ML monitoring, model drift detection, and automated retraining
+- Fairness, explainability, and responsible AI practices in production
 
 #### **💼 Applied In:**
-- Complete MLOps infrastructure 
-- Automated model deployment pipelines
-- Production model monitoring systems
-- ML system reliability engineering
+- Enterprise-scale MLOps infrastructure and CI/CD pipelines
+- Automated model deployment and monitoring systems
+- Production model performance tracking and optimization
+- Scalable ML platform architecture for multiple teams and models
 
 </div>
 </details>
@@ -301,21 +309,23 @@
 <div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
-- **Introduction to Artificial Intelligence (AI)**
-- **Introduction to Machine Learning**
-- **Introduction to Deep Learning & Neural Networks with Keras**
-- **Building AI Powered Chatbots Without Programming**
+- **Introduction to Artificial Intelligence (AI)** - Business-oriented AI fundamentals
+- **What is Data Science?** - Data science concepts and business applications
+- **The AI Ladder: A Framework for Deploying AI in your Enterprise** - Strategic AI implementation
 
 #### **🎯 Key Skills Acquired:**
-- AI strategy and business applications
-- ML algorithms for business problems
-- Chatbot development and deployment
-- AI ethics and responsible AI practices
+- AI strategy development and business case creation
+- Understanding of AI technologies and their business applications
+- Data science methodology and its role in AI initiatives
+- AI Ladder framework for enterprise AI deployment
+- AI ethics, responsible AI practices, and risk assessment
+- ROI analysis and business value measurement for AI projects
 
 #### **💼 Applied In:**
-- Strategic AI implementation planning
-- Business stakeholder communication
-- AI project ROI analysis and justification
+- Strategic AI transformation planning for enterprises
+- Executive stakeholder communication and AI education
+- Business case development for AI initiatives and digital transformation
+- AI governance and responsible AI implementation strategies
 
 </div>
 </details>
@@ -329,24 +339,26 @@
 <div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
-- **What is Data Science?**
-- **Tools for Data Science**
-- **Data Science Methodology**
-- **Python for Data Science, AI & Development**
-- **Python Project for Data Science**
-- **Databases and SQL for Data Science with Python**
+- **What is Data Science?** - Fundamentals and career overview
+- **Tools for Data Science** - Jupyter, RStudio, GitHub, and data science ecosystems
+- **Data Science Methodology** - CRISP-DM and systematic problem-solving approaches
+- **Python for Data Science, AI & Development** - Core Python programming for data analysis
+- **Python Project for Data Science** - Hands-on project with real datasets
+- **Databases and SQL for Data Science with Python** - Database management and SQL queries
 
 #### **🎯 Key Skills Acquired:**
-- Data science methodology and lifecycle
-- Python ecosystem for data science
-- SQL and database management
-- Data visualization and storytelling
-- End-to-end data science project execution
+- Data science methodology and project lifecycle management
+- Python ecosystem mastery including pandas, numpy, and matplotlib
+- SQL proficiency for data extraction and database management
+- Data visualization and statistical analysis techniques
+- Jupyter Notebook development and version control with GitHub
+- End-to-end data science project execution and presentation skills
 
 #### **💼 Applied In:**
-- Data pipeline architecture 
-- Database optimization and query performance
-- Data-driven decision making processes
+- Data pipeline architecture and ETL process development
+- Database optimization and complex query performance tuning
+- Statistical analysis and data-driven business intelligence
+- Data visualization dashboards and reporting systems
 
 </div>
 </details>
@@ -360,22 +372,23 @@
 <div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
-- **Introduction to Cloud Computing**
-- **Introduction to Web Development with HTML, CSS, JavaScript**
-- **Developing Cloud Apps with Node.js and React**
-- **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
+- **Introduction to Cloud Computing** - Cloud fundamentals, service models, deployment models
+- **Introduction to Artificial Intelligence (AI)** - AI concepts and business applications
+- **What is Data Science?** - Data science foundations and industry applications
 
 #### **🎯 Key Skills Acquired:**
-- Cloud computing fundamentals
-- Full-stack web development
-- Containerization and orchestration
-- Modern application deployment strategies
+- Cloud computing fundamentals including IaaS, PaaS, and SaaS models
+- Understanding of public, private, and hybrid cloud deployment strategies
+- AI and machine learning concepts for business applications
+- Data science methodology and its role in modern enterprises
+- Cloud-native technologies including microservices and DevOps practices
+- Emerging technologies like serverless computing and application modernization
 
 #### **💼 Applied In:**
-- Cloud infrastructure design on AWS
-- Containerized microservices architecture
-- Full-stack application development
-- Modern DevOps practices implementation
+- Enterprise cloud migration and infrastructure modernization
+- AI strategy development and implementation planning
+- Data-driven business transformation initiatives
+- Cloud-native application architecture and development
 
 </div>
 </details>
