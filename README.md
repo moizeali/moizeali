@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Senior+Machine+Learning+Engineer;MLOps+%26+Infrastructure+Specialist;Production+AI+Experience;IIT+Kanpur+Graduate;AWS+Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Senior+Machine+Learning+Engineer;MLOps+%26+Infrastructure+Specialist;9+Years+Production+AI+Experience;IIT+Kanpur+Graduate;AWS+Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moizeali&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moizeali)
@@ -14,7 +14,7 @@
 
 ## 🌟 **Why Top Tech Companies Should Hire Me**
 
-> **🎯 Production-proven ML Engineer with 6+ years building scalable AI infrastructure serving millions of users. Expert in end-to-end MLOps, cloud architecture, and turning research into profitable products.**
+> **🎯 Production-proven ML Engineer with 9 years building scalable infrastructure and backend systems for AI-driven applications. Expert in cloud infrastructure management (AWS), containerization, infrastructure as code (Terraform), and backend development using modern frameworks.**
 
 ### 💼 **What Sets Me Apart**
 
@@ -76,7 +76,7 @@
 
 ## 🏢 **Professional Journey**
 
-### **🎯 Machine Learning Engineer** | *Studypool Inc.* | **Aug 2019 - Present**
+### **🎯 Machine Learning Consultant** | *Studypool Inc.* | **Aug 2019 - Present**
 
 <details>
 <summary><b>🔍 Click to expand key achievements</b></summary>
@@ -122,7 +122,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### **🎯 Master of Technology**
 **Indian Institute of Technology (IIT), Kanpur**
@@ -131,7 +131,7 @@
 - **CGPA**: 8.0/10 | **2009-2011**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### **⚡ Bachelor of Engineering**
 **CSVTU, Bhilai**
@@ -144,10 +144,15 @@
 
 ### **🏆 Professional Certifications with Interactive Details**
 
-<div align="center">
+<div align="left" style="margin-left: 2rem;">
 
-<details>
-<summary><b>🎓 Stanford University - Algorithms Specialization</b> ✅ <a href="https://www.coursera.org/specializations/algorithms">View Certification</a></summary>
+<details style="border: 2px solid #00D4FF; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #1e3c72, #2a5298); color: white;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px;">
+🎓 <strong>Stanford University - Algorithms Specialization</strong> ✅
+<a href="https://coursera.org/share/c39eed772f5d232667479b033d321770" style="color: #FFD700; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
 - **Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
@@ -166,10 +171,16 @@
 - Efficient data processing pipelines
 - Performance-critical ML model implementations
 
+</div>
 </details>
 
-<details>
-<summary><b>🤖 DeepLearning.ai - Deep Learning Specialization</b> ✅ <a href="https://www.coursera.org/specializations/deep-learning">View Certification</a></summary>
+<details style="border: 2px solid #FF6F00; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #ff7e5f, #feb47b); color: white;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px;">
+🤖 <strong>DeepLearning.ai - Deep Learning Specialization</strong> ✅
+<a href="https://coursera.org/share/145eb298473a47378089b5278f16e087" style="color: #FFD700; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
 - **Neural Networks and Deep Learning**
@@ -191,10 +202,16 @@
 - NLP models for text analysis
 - Computer vision for autonomous vehicles
 
+</div>
 </details>
 
-<details>
-<summary><b>🤖 DeepLearning.ai - TensorFlow Developer Specialization</b> ✅ <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">View Certification</a></summary>
+<details style="border: 2px solid #4CAF50; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #667eea, #764ba2); color: white;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px;">
+🤖 <strong>DeepLearning.ai - TensorFlow Developer Specialization</strong> ✅
+<a href="https://coursera.org/share/95a5b36e6acfc1e666a10bcbc1de790a" style="color: #FFD700; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
 - **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
@@ -215,10 +232,16 @@
 - Real-time inference systems
 - Multi-modal AI applications
 
+</div>
 </details>
 
-<details>
-<summary><b>🤖 DeepLearning.ai - Generative Adversarial Networks (GANs) Specialization</b> ✅ <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">View Certification</a></summary>
+<details style="border: 2px solid #E91E63; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #f093fb, #f5576c); color: white;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px;">
+🤖 <strong>DeepLearning.ai - Generative Adversarial Networks (GANs) Specialization</strong> ✅
+<a href="https://coursera.org/share/9329eda302ba403dc4fb718a4c3b55e0" style="color: #FFD700; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
 - **Build Basic Generative Adversarial Networks (GANs)**
@@ -236,10 +259,16 @@
 - Synthetic data generation for ML model training
 - Research in generative modeling applications
 
+</div>
 </details>
 
-<details>
-<summary><b>🤖 DeepLearning.ai - Machine Learning Engineering for Production (MLOps)</b> ✅ <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops">View Certification</a></summary>
+<details style="border: 2px solid #9C27B0; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #4facfe, #00f2fe); color: white;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px;">
+🤖 <strong>DeepLearning.ai - Machine Learning Engineering for Production (MLOps)</strong> ✅
+<a href="https://coursera.org/share/993f1bc267d78a71a2dcd5085edd5cf1" style="color: #FFD700; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #FFD700;">
 
 #### **📚 Course Coverage:**
 - **Introduction to Machine Learning in Production**
@@ -260,10 +289,16 @@
 - Production model monitoring systems
 - ML system reliability engineering
 
+</div>
 </details>
 
-<details>
-<summary><b>🔵 IBM - AI Foundations for Business Specialization</b> ✅ <a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">View Certification</a></summary>
+<details style="border: 2px solid #2196F3; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #a8edea, #fed6e3); color: #333;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px; color: #333;">
+🔵 <strong>IBM - AI Foundations for Business Specialization</strong> ✅
+<a href="https://coursera.org/share/5c3b3b27eb555a6546cac84c10c336c0" style="color: #0066CC; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
 - **Introduction to Artificial Intelligence (AI)**
@@ -282,10 +317,16 @@
 - Business stakeholder communication
 - AI project ROI analysis and justification
 
+</div>
 </details>
 
-<details>
-<summary><b>🔵 IBM - Introduction to Data Science Specialization</b> ✅ <a href="https://www.coursera.org/specializations/introduction-data-science">View Certification</a></summary>
+<details style="border: 2px solid #FF9800; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #ffecd2, #fcb69f); color: #333;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px; color: #333;">
+🔵 <strong>IBM - Introduction to Data Science Specialization</strong> ✅
+<a href="https://coursera.org/share/c454bc4873106e6eb44040e6c00132c4" style="color: #0066CC; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
 - **What is Data Science?**
@@ -307,10 +348,16 @@
 - Database optimization and query performance
 - Data-driven decision making processes
 
+</div>
 </details>
 
-<details>
-<summary><b>🔵 IBM - Key Technologies for Business Specialization</b> ✅ <a href="https://www.coursera.org/specializations/key-technologies-business">View Certification</a></summary>
+<details style="border: 2px solid #607D8B; border-radius: 15px; padding: 10px; margin: 15px 0; background: linear-gradient(135deg, #d299c2, #fef9d7); color: #333;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 18px; padding: 10px; color: #333;">
+🔵 <strong>IBM - Key Technologies for Business Specialization</strong> ✅
+<a href="https://coursera.org/share/3c46d38e1615e12c1491beb1ad2854c1" style="color: #0066CC; text-decoration: none; margin-left: 20px;">🔗 View Certification</a>
+</summary>
+
+<div style="background: rgba(255,255,255,0.2); border-radius: 10px; padding: 20px; margin-top: 15px; border-left: 4px solid #0066CC;">
 
 #### **📚 Course Coverage:**
 - **Introduction to Cloud Computing**
@@ -330,6 +377,7 @@
 - Full-stack application development
 - Modern DevOps practices implementation
 
+</div>
 </details>
 
 </div>
@@ -408,10 +456,10 @@
 <td width="33%">
 
 #### **🏆 Proven Track Record**
-- **Production AI experience** across multiple domains
-- **Millions of users** served by deployed systems
-- **Cross-functional leadership** in distributed teams
-- **Elite education** with strong technical foundation
+- **9 years production experience** in scalable infrastructure
+- **99.9% uptime** for critical services across distributed environments
+- **Cross-functional leadership** in distributed, remote teams
+- **Elite education** from IIT Kanpur with strong technical foundation
 
 </td>
 <td width="33%">
