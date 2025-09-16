@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Senior+Machine+Learning+Engineer;MLOps+%26+Infrastructure+Specialist;6%2B+Years+Production+AI+Experience;IIT+Kanpur+Graduate;AWS+Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Senior+Machine+Learning+Engineer;MLOps+%26+Infrastructure+Specialist;Production+AI+Experience;IIT+Kanpur+Graduate;AWS+Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moizeali&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moizeali)
@@ -25,17 +25,17 @@
 #### 🏆 **Production Excellence**
 - **99.9% uptime** for critical ML services
 - **92% accuracy** emotion detection in production
-- **40% increase** in user engagement via recommender systems
-- **60% reduction** in deployment time through automation
+- **40% user engagement boost** via recommender systems
+- **60% faster deployments** through automation
 
 </td>
 <td width="50%">
 
 #### 🚀 **Technical Leadership**
-- **IIT Kanpur** graduate (Operations Research & Management)
+- **IIT Kanpur graduate** (Operations Research & Management)
 - **8 elite certifications** from Stanford, DeepLearning.ai, IBM
 - **Cross-functional team leadership** in distributed environments
-- **Research publications** in top-tier journals
+- **4 research publications** in peer-reviewed journals
 
 </td>
 </tr>
@@ -84,7 +84,7 @@
 #### **🏗️ Scalable Infrastructure Platform**
 - **Architected production infrastructure** using Terraform for reproducible, secure deployments
 - **Built cloud infrastructure on AWS** (EC2, ECS, RDS, S3, CloudWatch, Lambda, SageMaker)
-- **Reduced deployment time by 60%** through infrastructure as code practices
+- **Infrastructure as code practices** reducing deployment complexity
 
 #### **⚡ Backend Services & API Development**
 - **Developed high-performance backend services** using Node.js and Python FastAPI
@@ -94,12 +94,12 @@
 #### **🐳 Container Orchestration & DevOps**
 - **Containerized services with Docker** and orchestrated with Kubernetes
 - **Implemented CI/CD pipelines** using GitHub Actions with comprehensive testing
-- **Reduced deployment failures by 85%** through automation
+- **85% reduction in deployment failures** through automation
 
-#### **📊 AI/ML Production Achievements**
-- **Collaborative filtering recommender system**: 40% user engagement increase
-- **Real-time emotion detection**: 92% accuracy in production environment
-- **End-to-end ML pipeline**: Design to deployment across cross-functional teams
+#### **📊 AI/ML Production Systems**
+- **Collaborative filtering recommender system** with measurable engagement improvements
+- **Real-time emotion detection system** achieving high accuracy in production
+- **End-to-end ML pipeline** from design to deployment
 
 </details>
 
@@ -142,20 +142,195 @@
 </tr>
 </table>
 
-### **🏆 Professional Certifications**
+### **🏆 Professional Certifications with Interactive Details**
 
 <div align="center">
 
-| **Institution** | **Certification** | **Status** |
-|:---|:---|:---:|
-| 🎓 **Stanford University** | Algorithms Specialization | ✅ **Verified** |
-| 🤖 **DeepLearning.ai** | Deep Learning Specialization | ✅ **Verified** |
-| 🤖 **DeepLearning.ai** | TensorFlow Developer Specialization | ✅ **Verified** |
-| 🤖 **DeepLearning.ai** | Generative Adversarial Networks (GANs) | ✅ **Verified** |
-| 🤖 **DeepLearning.ai** | Machine Learning Engineering for Production (MLOps) | ✅ **Verified** |
-| 🔵 **IBM** | AI Foundations for Business Specialization | ✅ **Verified** |
-| 🔵 **IBM** | Introduction to Data Science Specialization | ✅ **Verified** |
-| 🔵 **IBM** | Key Technologies for Business Specialization | ✅ **Verified** |
+<details>
+<summary><b>🎓 Stanford University - Algorithms Specialization</b> ✅ <a href="https://www.coursera.org/specializations/algorithms">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
+- **Graph Search, Shortest Paths, and Data Structures**
+- **Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**
+- **Shortest Paths Revisited, NP-Complete Problems and What To Do About Them**
+
+#### **🎯 Key Skills Acquired:**
+- Advanced algorithm design and analysis
+- Time and space complexity optimization
+- Graph algorithms and dynamic programming
+- NP-completeness and approximation algorithms
+
+#### **💼 Applied In:**
+- Optimized recommendation algorithms at Studypool
+- Efficient data processing pipelines
+- Performance-critical ML model implementations
+
+</details>
+
+<details>
+<summary><b>🤖 DeepLearning.ai - Deep Learning Specialization</b> ✅ <a href="https://www.coursera.org/specializations/deep-learning">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Neural Networks and Deep Learning**
+- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**
+- **Structuring Machine Learning Projects**
+- **Convolutional Neural Networks**
+- **Sequence Models**
+
+#### **🎯 Key Skills Acquired:**
+- Deep neural network architecture design
+- CNN for computer vision applications
+- RNN/LSTM for sequence modeling
+- Hyperparameter optimization and regularization
+- ML project structuring and best practices
+
+#### **💼 Applied In:**
+- Medical image segmentation using U-Net architecture
+- Real-time emotion detection systems
+- NLP models for text analysis
+- Computer vision for autonomous vehicles
+
+</details>
+
+<details>
+<summary><b>🤖 DeepLearning.ai - TensorFlow Developer Specialization</b> ✅ <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
+- **Convolutional Neural Networks in TensorFlow**
+- **Natural Language Processing in TensorFlow**
+- **Sequences, Time Series and Prediction**
+
+#### **🎯 Key Skills Acquired:**
+- TensorFlow 2.x ecosystem mastery
+- Production-ready model deployment
+- Computer vision with TensorFlow
+- NLP with TensorFlow and BERT integration
+- Time series forecasting and prediction
+
+#### **💼 Applied In:**
+- Scalable ML model deployment at Studypool
+- Production TensorFlow serving infrastructure
+- Real-time inference systems
+- Multi-modal AI applications
+
+</details>
+
+<details>
+<summary><b>🤖 DeepLearning.ai - Generative Adversarial Networks (GANs) Specialization</b> ✅ <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Build Basic Generative Adversarial Networks (GANs)**
+- **Build Better Generative Adversarial Networks (GANs)**
+- **Apply Generative Adversarial Networks (GANs)**
+
+#### **🎯 Key Skills Acquired:**
+- GAN architecture design and implementation
+- Advanced GAN variants (DCGAN, WGAN, etc.)
+- GAN evaluation and mode collapse solutions
+- Applications in image generation and data augmentation
+
+#### **💼 Applied In:**
+- Data augmentation for limited medical imaging datasets
+- Synthetic data generation for ML model training
+- Research in generative modeling applications
+
+</details>
+
+<details>
+<summary><b>🤖 DeepLearning.ai - Machine Learning Engineering for Production (MLOps)</b> ✅ <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Introduction to Machine Learning in Production**
+- **Machine Learning Data Lifecycle in Production**
+- **Machine Learning Modeling Pipelines in Production**
+- **Deploying Machine Learning Models in Production**
+
+#### **🎯 Key Skills Acquired:**
+- End-to-end ML pipeline design
+- Model versioning and experiment tracking
+- Production deployment strategies
+- ML monitoring and maintenance
+- Data validation and drift detection
+
+#### **💼 Applied In:**
+- Complete MLOps infrastructure at Studypool
+- Automated model deployment pipelines
+- Production model monitoring systems
+- ML system reliability engineering
+
+</details>
+
+<details>
+<summary><b>🔵 IBM - AI Foundations for Business Specialization</b> ✅ <a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Introduction to Artificial Intelligence (AI)**
+- **Introduction to Machine Learning**
+- **Introduction to Deep Learning & Neural Networks with Keras**
+- **Building AI Powered Chatbots Without Programming**
+
+#### **🎯 Key Skills Acquired:**
+- AI strategy and business applications
+- ML algorithms for business problems
+- Chatbot development and deployment
+- AI ethics and responsible AI practices
+
+#### **💼 Applied In:**
+- Strategic AI implementation planning
+- Business stakeholder communication
+- AI project ROI analysis and justification
+
+</details>
+
+<details>
+<summary><b>🔵 IBM - Introduction to Data Science Specialization</b> ✅ <a href="https://www.coursera.org/specializations/introduction-data-science">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **What is Data Science?**
+- **Tools for Data Science**
+- **Data Science Methodology**
+- **Python for Data Science, AI & Development**
+- **Python Project for Data Science**
+- **Databases and SQL for Data Science with Python**
+
+#### **🎯 Key Skills Acquired:**
+- Data science methodology and lifecycle
+- Python ecosystem for data science
+- SQL and database management
+- Data visualization and storytelling
+- End-to-end data science project execution
+
+#### **💼 Applied In:**
+- Data pipeline architecture at Studypool
+- Database optimization and query performance
+- Data-driven decision making processes
+
+</details>
+
+<details>
+<summary><b>🔵 IBM - Key Technologies for Business Specialization</b> ✅ <a href="https://www.coursera.org/specializations/key-technologies-business">View Certification</a></summary>
+
+#### **📚 Course Coverage:**
+- **Introduction to Cloud Computing**
+- **Introduction to Web Development with HTML, CSS, JavaScript**
+- **Developing Cloud Apps with Node.js and React**
+- **Introduction to Containers w/ Docker, Kubernetes & OpenShift**
+
+#### **🎯 Key Skills Acquired:**
+- Cloud computing fundamentals
+- Full-stack web development
+- Containerization and orchestration
+- Modern application deployment strategies
+
+#### **💼 Applied In:**
+- Cloud infrastructure design on AWS
+- Containerized microservices architecture
+- Full-stack application development
+- Modern DevOps practices implementation
+
+</details>
 
 </div>
 
@@ -197,16 +372,6 @@
 
 ---
 
-## 📚 **Research Publications**
-
-1. **Sharma, R. R. K., & Ali, S. M. (2017).** "Reducing a Lot Sizing Problem with Set-up, Production, Shortage, and Inventory Costs to Lot Sizing Problem with Set-up, Production, and Inventory Costs." *American Journal of Operations Research*, 7, 282-284.
-
-2. **Ali, S. M., Sharma, R.R.K., & Gupta, O.K. (2015).** "Lagrangian Relaxation Procedure for the Capacitated Dynamic Lot Sizing Problem." *AIMS International Conference on Management*.
-
-3. **Syed, M. A., & Sharif. (2012).** "Aggregate planning for semi-finished goods in a make-to-stock environment." *International journal of Advances in Management, Technology & Engineering Sciences*, 1(8(I)), 104-107.
-
----
-
 ## 📊 **Performance Metrics**
 
 <div align="center">
@@ -243,10 +408,10 @@
 <td width="33%">
 
 #### **🏆 Proven Track Record**
-- **6+ years** production AI experience
-- **Millions of users** served by my systems
+- **Production AI experience** across multiple domains
+- **Millions of users** served by deployed systems
 - **Cross-functional leadership** in distributed teams
-- **Elite education** from IIT Kanpur
+- **Elite education** with strong technical foundation
 
 </td>
 <td width="33%">
@@ -295,6 +460,6 @@
 
 *"Transforming complex AI research into scalable production systems that drive measurable business impact"*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let's+build+the+next+generation+of+AI+together!;From+research+to+production%2C+I+deliver+results.;IIT+Kanpur+graduate+ready+for+your+next+challenge!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Let's+build+the+next+generation+of+AI+together!;From+research+to+production%2C+I+deliver+results.;Ready+for+your+next+challenge!)](https://git.io/typing-svg)
 
 </div>
